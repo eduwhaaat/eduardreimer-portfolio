@@ -34,7 +34,7 @@ a:focus {
 }
 
 .frame {
-	padding: 3rem 5vw;
+	padding: 1rem 2vw;
 	text-align: center;
 	position: relative;
 	z-index: 1000;
@@ -64,7 +64,7 @@ a:focus {
 	display: flex;
 	flex-direction: column;
 	width: 100vw;
-	height: calc(100vh - 13rem);
+	height: calc(100vh - 20rem);
 	position: relative;
 	justify-content: flex-start;
 	align-items: center;
