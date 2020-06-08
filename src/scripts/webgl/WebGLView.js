@@ -14,8 +14,7 @@ export default class WebGLView {
 		this.samples = [ 
 			'images/sample-06.jpg',
 			'images/sample-07.jpg',
-			'images/sample-08.png',
-			'images/sample-09.png',
+			'images/sample-08.png', 
 			'images/sample-10.png',
 		];
 
